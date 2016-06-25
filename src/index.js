@@ -1,6 +1,6 @@
 import angular from 'angular';
 
-import './app';
+import './components/app';
 
 
 angular.bootstrap(document, ['App']);
